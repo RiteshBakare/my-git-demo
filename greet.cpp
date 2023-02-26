@@ -7,6 +7,7 @@ int main() {
     cin>>name;   
 
     cout<<"Hello "<<name<<endl;
+    cout<<"How are you "<<endl;
 
     return 0;
 }
